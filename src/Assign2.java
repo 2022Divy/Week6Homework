@@ -1,4 +1,4 @@
-public class assign2 {
+public class Assign2 {
     //2. Write a Java programme using the following steps.
     //2.1 Declare two static variables.
     //2.2 Declare one static method.

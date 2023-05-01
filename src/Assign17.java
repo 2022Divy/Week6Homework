@@ -1,4 +1,4 @@
-public class assign17 {
+public class Assign17 {
     //17. Write a Java Program using below steps.
     //17.1 Declare your city as instance variables.
     //17.2 Declare your country as static variables.
@@ -14,13 +14,13 @@ public class assign17 {
     }
 
     public static void multi(){
-        assign17 v = new assign17();
+        Assign17 v = new Assign17();
         System.out.println("The city is (static method) :" +v.city);
 
     }
 
     public static void main(String[] args) {
-        assign17 a = new assign17();
+        Assign17 a = new Assign17();
         a.sub();
         multi();
     }

@@ -1,4 +1,4 @@
-public class assign20 {
+public class Assign20 {
     //20. Write a Java Program using below steps.
     //20.1 Declare your Spain as static variable.
     //20.2 Declare your United Kingdom as instance variable.
@@ -15,12 +15,12 @@ public class assign20 {
     }
 
     public static void holidays(){
-        assign20 a = new assign20();
+        Assign20 a = new Assign20();
         System.out.println("The country name is :" +a.c2);
     }
 
     public static void main(String[] args) {
-        assign20 b = new assign20();
+        Assign20 b = new Assign20();
         b.homeCountry();
         holidays();
 

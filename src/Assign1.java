@@ -1,4 +1,4 @@
-public class assign1 {
+public class Assign1 {
 
     //Write a Java programme using the following steps.
     //1.1 Declare two instance variables.
@@ -12,7 +12,7 @@ public class assign1 {
 
     public static void main(String[] args) {
 
-        assign1 vd = new assign1();
+        Assign1 vd = new Assign1();
         vd.add();
     }
     public void add(){

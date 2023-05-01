@@ -1,4 +1,4 @@
-public class assign9 {
+public class Assign9 {
     //9. Write a program to convert the upper case to lower case.
 
     String a = "PATEL", b;
@@ -11,7 +11,7 @@ public class assign9 {
 
     public static void main(String[] args) {
 
-        assign9 z2 = new assign9();
+        Assign9 z2 = new Assign9();
         z2.ab1();
 
     }

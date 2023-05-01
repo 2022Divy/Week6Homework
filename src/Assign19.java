@@ -1,4 +1,4 @@
-public class assign19 {
+public class Assign19 {
     //19. Write a Java Program using below steps.
     //19.1 Declare one of your group member names as instance variable.
     //19.2 Declare one of your group member names as static variable.
@@ -21,7 +21,7 @@ public class assign19 {
     }
 
     public static void agile(){
-        assign19 w = new assign19();
+        Assign19 w = new Assign19();
         int q = 20;
         System.out.println("A group member name is (static method) :" +w.name);
         System.out.println("A group member name is (static method) :" +name1);
@@ -32,7 +32,7 @@ public class assign19 {
 
     public static void main(String[] args) {
         int r = 22;
-        assign19 x = new assign19();
+        Assign19 x = new Assign19();
 
         System.out.println("The number is :" +r);
         x.selenium();

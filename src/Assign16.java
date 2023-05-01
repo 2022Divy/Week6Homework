@@ -1,4 +1,4 @@
-public class assign16 {
+public class Assign16 {
 
     //16. Write a Java Program to print as below. (All details to be stored in variable)
     //
@@ -21,7 +21,7 @@ public class assign16 {
 
 
     public static void main(String[] args) {
-        assign16 v = new assign16();
+        Assign16 v = new Assign16();
         v.draw();
 
     }

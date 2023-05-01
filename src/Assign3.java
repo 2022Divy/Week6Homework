@@ -1,4 +1,4 @@
-public class assign3 {
+public class Assign3 {
     //3. Write a Java programme using the following steps.
     //3.1 Declare one instance and one static variable.
     //3.2 Declare one instance method.
@@ -13,7 +13,7 @@ public class assign3 {
     static String Subject ="Account";
 
     public static void main(String[] args) {
-        assign3 s = new assign3();
+        Assign3 s = new Assign3();
         s.sub();
         marks();
 
@@ -26,7 +26,7 @@ public class assign3 {
     }
 
     public static void marks(){
-        assign3 vdp = new assign3();
+        Assign3 vdp = new Assign3();
         System.out.println("The number is :" +vdp.num);
         System.out.println("The Subject is :" +Subject);
 

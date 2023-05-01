@@ -1,4 +1,4 @@
-public class assign5 {
+public class Assign5 {
 
     //5. Write a program for a calculator with addition, subtraction, multiplication, and division
     //methods all with parameters and use string concatenation methods. (Note: Two static
@@ -7,7 +7,7 @@ public class assign5 {
 
     public static void main(String[] args) {
 
-        assign5 z = new assign5();
+        Assign5 z = new Assign5();
         z.add(25,20);
         z.sub(50,60);
         multiple(5,6);

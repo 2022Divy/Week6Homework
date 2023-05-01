@@ -1,4 +1,4 @@
-public class assign18 {
+public class Assign18 {
     //18. Write a Java Program using below steps.
     //18.1 Declare your council name as static variables.
     //18.2 Declare your house number as instance variables.
@@ -15,13 +15,13 @@ public class assign18 {
     }
 
     public static void address(){
-        assign18 z = new assign18();
+        Assign18 z = new Assign18();
         System.out.println("The house number is :" +z.a);
 
     }
 
     public static void main(String[] args) {
-        assign18 y = new assign18();
+        Assign18 y = new Assign18();
         y.borough();
         address();
     }

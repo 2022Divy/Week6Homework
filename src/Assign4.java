@@ -1,4 +1,4 @@
-public class assign4 {
+public class Assign4 {
     //4. Write a Java programme using the following steps.
     //4.1 Declare two instance and two static variables.
     //4.2 Declare one instance method.
@@ -20,7 +20,7 @@ public class assign4 {
     }
 
     public static void Bio(){
-        assign4 a = new assign4();
+        Assign4 a = new Assign4();
         System.out.println("The number is :" +a.num1);
         System.out.println("The number is :" +a.num2);
         System.out.println("The name is :" +name);
@@ -29,7 +29,7 @@ public class assign4 {
         }
 
     public static void main(String[] args) {
-        assign4 p = new assign4();
+        Assign4 p = new Assign4();
         p.num();
         Bio();
 

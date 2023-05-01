@@ -1,18 +1,18 @@
-public class assign8 {
-    //8. Write a program to insert any temperature value in degree Fahrenheit and convert
+public class Assign7 {
+
+    //7. Write a program to insert any temperature value in degree Fahrenheit and convert
     //to degree Celsius ((F − 32) × 5/9 = 0°C).
 
     double m;
-
+    int F = 12;
 
     public static void main(String[] args) {
-        assign8 b= new assign8();
-        b.cel(58);
-
+        Assign7 a = new Assign7();
+        a.degree();
 
     }
 
-    public void cel(int F){
+    public void degree (){
 
         m = ((F - 32) * 5/9);
         System.out.println("Temperature in degree celsius is :" +m +"c");
@@ -21,4 +21,3 @@ public class assign8 {
 
 
 }
-

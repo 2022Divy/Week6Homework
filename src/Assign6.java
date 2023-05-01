@@ -1,4 +1,4 @@
-public class assign6 {
+public class Assign6 {
 
     //6. Write a program to enter any radius value of the circle and find out the area. (Formula
     //of Area A=PI*r*r).
@@ -14,7 +14,7 @@ public class assign6 {
     }
 
     public static void main(String[] args) {
-        assign6 a = new assign6();
+        Assign6 a = new Assign6();
 
         a.add();
 

@@ -1,4 +1,4 @@
-public class assign13 {
+public class Assign13 {
     //13. Write a Java program to print the area and perimeter of a rectangle.
     //Test Data:
     //
